@@ -1,6 +1,4 @@
-<br>
 <img alt="Coder GIF" height=600 width=800 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
-<br>
 <h1 align="center">Hi 👋, I'm Raihanul Islam</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
 
