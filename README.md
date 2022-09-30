@@ -1,9 +1,13 @@
 <br>
-<img alt="Coder GIF" height=300 width=400 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+<img alt="Coder GIF" height=400 width=400 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 <br>
 
 <h1 align="center">Hi 👋, I'm Raihanul Islam</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
+
+
+
+
 ### About Me
 - [raihanulislam.com](https://raihanulislam12s.github.io/Raihan/)
 - [linkedin/Raihanul Islam](https://www.linkedin.com/in/raihanulislam12s/)
