@@ -1,5 +1,5 @@
 <br>
-<img alt="Coder GIF" height=600 width=800 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+<img alt="Coder GIF" height=700 width=800 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 <br>
 
 <h1 align="center">Hi 👋, I'm Raihanul Islam</h1>
@@ -42,5 +42,3 @@
  
  <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raihanulislam12s&theme=dark&layout=compact&align=right&width=40%)](https://github.com/Raihanulislam12s/github-readme-stats)
-## Watch my contribution graph eaten by the snake🐍
-![snake gif](https://github.com/Raihanulislam12s/Raihanulislam12s/blob/output/github-contribution-grid-snake.gif)
