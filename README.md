@@ -18,7 +18,7 @@
 #### Others: Git | Docker | Latex | Linux | Vercel
 
 ## My Handles
- [<img src="https://img.shields.io/badge/ShahjalalShohag-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/raihanulislam12s/)
+ [<img src="https://img.shields.io/badge/Raihanul Isalm-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/raihanulislam12s/)
  
 
 ![Profile views](https://gpvc.arturio.dev/Raihanulislam12s)
