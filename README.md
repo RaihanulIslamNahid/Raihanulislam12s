@@ -1,5 +1,5 @@
-<img alt="Coder GIF" height=600 width=800 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
-<h1 align="center">Hi 👋, I'm Raihanul Islam</h1>
+<tab><img alt="Coder GIF" height=600 width=800 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
+<h2 align="center">Hi 👋, I'm Raihanul Islam</h2>
 <h3 align="center">A passionate developer from Bangladesh</h3>
 
 
