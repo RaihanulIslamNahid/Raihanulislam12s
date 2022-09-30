@@ -1,9 +1,3 @@
-<br>
-<img alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
-<br>
-
-<h1 align="center">Hi 👋, I'm Raihanul Islam</h1>
-<h3 align="center">A passionate developer from Bangladesh</h3>
 ### About Me
 - [raihanulislam.com](https://raihanulislam12s.github.io/Raihan/)
 - [linkedin/Raihanul Islam](https://www.linkedin.com/in/raihanulislam12s/)
@@ -38,3 +32,5 @@
  
  <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raihanulislam12s&theme=dark&layout=compact&align=right&width=40%)](https://github.com/Raihanulislam12s/github-readme-stats)
+## Watch my contribution graph eaten by the snake🐍
+![snake gif](https://github.com/Raihanulislam12s/Raihanulislam12s/blob/output/github-contribution-grid-snake.gif)
