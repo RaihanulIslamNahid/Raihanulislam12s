@@ -39,3 +39,4 @@
  
  <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raihanulislam12s&theme=dark&layout=compact&align=right&width=40%)](https://github.com/Raihanulislam12s/github-readme-stats)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
