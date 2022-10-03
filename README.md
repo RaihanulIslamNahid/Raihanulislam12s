@@ -15,7 +15,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Raihanulislam12s&show_icons=true&count_private=true&theme=dark" alt="Raihanulislam12s" />
 
 ### My Stacks
-#### Languages: C++ | Python | Javascript | Typescript | Solidity 
+#### Languages: C++ | Python | Javascript | Typescript 
 
 #### Frontend: HTML | CSS | React | NextJS | Tailwind
 
