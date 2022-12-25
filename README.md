@@ -1,4 +1,4 @@
-<tab><img alt="Coder GIF" height=400 width=600 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" /></tab>
+<tab><img alt="Coder GIF" height=400 width=600 src="https://dribbble.com/shots/3980093-Leaking/attachments/10129861?mode=media" /></tab>
 <h2 align="center">Hi 👋, I'm Raihanul Islam</h2>
 <h3 align="center">A passionate developer from Bangladesh</h3>
 
