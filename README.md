@@ -6,10 +6,9 @@
 
 
 ### About Me
-- [raihanulislam.com](https://raihanulislam12s.github.io/Raihan/)
+- [raihanulislam.com](https://raihanulislam12s.github.io)
 - [linkedin/Raihanul Islam](https://www.linkedin.com/in/raihanulislam12s/)
-- [twitter/Raihanul Isalm](https://twitter.com/raihanulislam1s)
-- [Facebook/Raihanul Islam Nahid](https://www.facebook.com/raihanulislam12s)
+- [Facebook/Raihanul Islam Nahid](https://www.facebook.com/Raihan12s)
 
 ### My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Raihanulislam12s&show_icons=true&count_private=true&theme=dark" alt="Raihanulislam12s" />
