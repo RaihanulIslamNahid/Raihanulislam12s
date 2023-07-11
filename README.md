@@ -28,13 +28,9 @@
  [<img src="https://img.shields.io/badge/Raihanul Isalm-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/raihanulislam12s/)
  
 
-![Profile views](https://gpvc.arturio.dev/Raihanulislam12s)
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raihanulislam12s&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
- 
- <!-- ACTIVITY GRAPH TRACKER -->
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=Raihanulislam12s&theme=react-dark)](https://github.com/Raihanulislam12s/github-readme-activity-graph)
  
  <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raihanulislam12s&theme=dark&layout=compact&align=right&width=40%)](https://github.com/Raihanulislam12s/github-readme-stats)
